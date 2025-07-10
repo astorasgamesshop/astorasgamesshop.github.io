@@ -1,4 +1,4 @@
 [
-    { "nombre": "Juego 1", "precio": "$20", "imagen": "juegos/juego1.jpg" },
+    { "nombre": "Elden Ring Nightreign", "precio": "$250.00", "imagen": "https://shared.steamstatic.com/store_item_assets/steam/apps/2622380/d1ee7bc631966b1a99e232a9f84af736bb298395/library_600x900_2x.jpg?t=1749150133" },
     // Agrega más juegos aquí
 ]
