@@ -7,5 +7,5 @@ document.getElementById('checkoutForm').addEventListener('submit', function(even
 
     const message = `Pedidos: ${cartItems}\nTotal: $${total.toFixed(2)}`;
 
-    window.open(`https://wa.me/5491166666666?text=${encodeURIComponent(message)}`, '_blank');
+    window.open(`https://wa.me/+5353197867?text=${encodeURIComponent(message)}`, '_blank');
 });
