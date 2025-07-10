@@ -1,0 +1,4 @@
+[
+    { "nombre": "Juego 1", "precio": "$20", "imagen": "juegos/juego1.jpg" },
+    // Agrega más juegos aquí
+]
